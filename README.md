@@ -60,6 +60,7 @@ To design a **user-friendly analytical dashboard** that helps stakeholders:
 ## 📸 Screenshots
 
 <img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/86bcc539-3b0f-4f06-9d9c-1474389b0c00" />
+
 <img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/4d5b2b14-651d-4d09-bf89-3f968e4c653b" />
 
 ---
